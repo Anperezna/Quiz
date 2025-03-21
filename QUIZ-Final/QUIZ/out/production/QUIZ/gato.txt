@@ -1,0 +1,20 @@
+¿Cuánto tiempo al día debe un gato jugar para mantenerse saludable?;A) Al menos 30 minutos.;B) Al menos 2 horas.;C) Solo cuando tiene ganas.;A
+¿Qué tipo de alimentación es ideal para un gato adulto?; A) Solo comida enlatada.; B) Comida seca de buena calidad.; C) Comida húmeda y seca, combinada.;C
+¿Con qué frecuencia deben limpiarse los areneros de los gatos?; A) Una vez al mes.; B) Cada 2 días.; C) Todos los días.;C
+¿Cuál es el principal síntoma de estrés en un gato?; A) Dormir más de lo normal.; B) Agresión o esconderse.; C) Comer más.;B
+¿Cómo debe ser la caja de arena para que el gato la acepte?; A) Grande y sin tapa.; B) Pequeña y con tapa.; C) Alta y con muchos juguetes adentro.;A
+¿Cuál es la principal razón para cepillar a un gato regularmente?; A) Para reducir la caída de pelo y evitar bolas de pelo.; B) Para que se acostumbre a estar limpio.; C) Para que no se aburran.;A
+¿Qué debes hacer si un gato tiene diarrea durante más de un día?; A) Ignorarlo, pasará pronto.; B) Llamar al veterinario.; C) Cambiar su dieta.;B
+¿Dónde debe dormir un gato?; A) En cualquier parte de la casa.; B) En una cama propia o una manta cómoda.; C) Solo fuera de la casa.;B
+¿Cuántas horas al día duerme un gato promedio?; A) 8 horas.; B) 12 horas.; C) 16 horas o más.;C
+¿Qué tipo de rascador es mejor para un gato?; A) De cartón.; B) De madera.; C) De tela.;A
+¿Cómo reaccionan los gatos a los cambios en su entorno?; A) Les resulta muy fácil adaptarse.; B) Pueden sentirse ansiosos o estresados.; C) Siempre se adaptan rápidamente sin problemas.;B
+¿Cuándo es el momento adecuado para esterilizar a un gato?; A) A partir de los 3 meses de edad.; B) A partir de los 6 meses de edad.; C) Después de los 2 años de edad.;B
+¿Cómo saber si un gato está enfermo?; A) Comer mucho más de lo normal.; B) Cambios en su comportamiento o apetito.; C) Saltar menos de lo normal.;B
+¿Qué tipo de juguetes son adecuados para un gato?; A) Pelotas y cuerdas.; B) Solo pelotas.; C) Juguetes que imiten a sus presas, como ratones.;C
+¿Cuánto tiempo puede estar solo un gato durante el día?; A) 4 a 6 horas, máximo.; B) 12 horas, sin problema.; C) No debe estar nunca solo.;A
+¿Cómo puedes reducir la posibilidad de que tu gato muerda o arañe a las personas?; A) Ignorar su comportamiento agresivo.; B) Castigarlo físicamente.; C) Jugar con él de forma adecuada y proporcionarle una rutina.;C
+¿Es necesario llevar a un gato al veterinario?; A) Solo si está enfermo.; B) Solo cuando tiene más de 10 años.; C) De manera regular para chequeos y vacunas.;C
+¿Cuál es una de las principales fuentes de entretenimiento para los gatos?; A) Mirar por la ventana.; B) Correr detrás de objetos que se mueven.; C) Matar ratones reales.;B
+¿Qué debes hacer si un gato muestra signos de dolor o malestar?; A) Ignorar los síntomas y esperar que se pase.; B) Llevarlo al veterinario inmediatamente.; C) Administrarle medicinas caseras.;B
+¿Cómo reaccionan los gatos a los cambios de temperatura extremos?; A) Se adaptan a cualquier temperatura sin problemas.; B) Se refugian en lugares cálidos en invierno y frescos en verano.; C) Solo toleran temperaturas frías.;B

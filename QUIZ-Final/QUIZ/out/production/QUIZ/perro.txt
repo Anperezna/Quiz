@@ -1,0 +1,20 @@
+¿Cuánto tiempo debe caminar un perro adulto para mantenerse saludable?; A) Al menos 30 minutos al día.; B) Al menos 2 horas al día.; C) Solo cuando tiene energía.;A
+¿Qué tipo de alimentación es ideal para un perro adulto?; A) Solo comida seca.; B) Solo comida enlatada.; C) Comida húmeda y seca, combinada.;C
+¿Con qué frecuencia debe bañarse un perro?; A) Una vez a la semana.; B) Cada 2 semanas.; C) Depende de la raza y actividad del perro.;C
+¿Cuál es el principal síntoma de estrés en un perro?; A) Ladridos constantes.; B) Comportamiento destructivo o ocultarse.; C) Comer menos de lo normal.;B
+¿Cómo debe ser el lugar donde duerme un perro?; A) En cualquier parte de la casa.; B) En una cama cómoda y tranquila.; C) Solo en el jardín.;B
+¿Cuál es la principal razón para cepillar a un perro regularmente?; A) Para que esté más limpio.; B) Para evitar que se enrede su pelaje.; C) Para reducir la caída de pelo.;B
+¿Qué debes hacer si un perro tiene vómitos durante más de un día?; A) Ignorarlo, pasará pronto.; B) Cambiar su dieta.; C) Llamar al veterinario.;C
+¿Dónde debe caminar un perro para estar seguro?; A) Solo en el parque.; B) En la calle, siempre con correa.; C) En lugares con mucho tráfico.;B
+¿Cuántas horas al día duerme un perro promedio?; A) 8 horas.; B) 12 horas.; C) 14 horas o más.;C
+¿Qué tipo de juguetes son mejores para los perros?; A) Pelotas y juguetes que se pueden morder.; B) Solo pelotas.; C) Juguetes de tela suave.;A
+¿Cómo reaccionan los perros a los cambios en su rutina diaria?; A) Les resulta fácil adaptarse rápidamente.; B) Pueden sentirse ansiosos o confundidos.; C) No les afecta en absoluto.;B
+¿A qué edad es recomendable comenzar el entrenamiento básico de un perro?; A) A partir de los 2 meses.; B) A partir de los 4 meses.; C) A partir de los 6 meses.;A
+¿Cómo saber si un perro está enfermo?; A) Cambios en su comportamiento o apetito.; B) Ladrar más de lo normal.; C) Saltar más de lo normal.;A
+¿Qué debes hacer si un perro muestra signos de agresión?; A) Ignorarlo y esperar que se calme.; B) Castigarlo físicamente.; C) Mantener la calma, evitar el contacto y buscar ayuda profesional.;C
+¿Cuánto tiempo puede estar solo un perro durante el día?; A) 1 a 3 horas.; B) 4 a 6 horas.; C) Más de 10 horas.;B
+¿Cómo puedes ayudar a que tu perro socialice con otros perros?; A) Forzarlo a interactuar con otros perros.; B) Exponerlo gradualmente a diferentes perros en un entorno controlado.; C) Evitar que interactúe con otros perros.;B
+¿Es necesario llevar a un perro al veterinario?; A) Solo cuando está enfermo.; B) Solo cuando tiene más de 10 años.; C) De manera regular para chequeos y vacunas.;C
+¿Cuál es una de las principales fuentes de entretenimiento para los perros?; A) Jugar con pelotas y frisbees.; B) Mirar televisión.; C) Dormirtodo el dia;A
+¿Qué debes hacer si un perro muestra signos de dolor o malestar?; A) Ignorar los síntomas y esperar que se pase.; B) Llevarlo al veterinario inmediatamente.; C) Administrarle medicinas caseras.;B
+¿Cómo reaccionan los perros a los cambios de temperatura extremos?; A) Se adaptan a cualquier temperatura sin problemas.; B) Se refugian en lugares cálidos en invierno y frescos en verano.; C) Solo toleran temperaturas frías.;C
